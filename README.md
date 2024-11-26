@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
-<img src="https://img.shields.io/badge/Python (포기 함)-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python (포기 함)-ffdf76?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTMX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chat-gpt-E34F26?style=flat-square&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chatgpt-E34F26?style=flat-square&logo=OpenAI&logoColor=white"/>
