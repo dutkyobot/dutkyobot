@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JSS&logoColor=333333"/>
 <img src="https://img.shields.io/badge/Python-ffdf76?style=flat-square&logo=Python&logoColor=333333"/>
 
-https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상
+<--! https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상 -->
