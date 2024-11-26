@@ -1,9 +1,9 @@
-## Hi there 👋
+## 안녕하세요! 👋
 
 **dutkyobot/dutkyobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 현재 dutkyobot.github.io를 제작하고 있습니다.
-- 🌱 현재 HTML, CSS, JS에 대해 배우고 있습니다.
+- 🌱 현재 HTML, CSS, JS, python에 대해 배우고 있습니다.
 - 👯 ...에 대해 협업하고 싶습니다.
 - 🤔 ...에 대한 도움이 필요합니다.
 - 💬 ...에 대해 문의하세요.
