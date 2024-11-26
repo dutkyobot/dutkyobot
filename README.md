@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Chatgpt-D9D9D9?style=flat-square&logo=OpenAI&logoColor=333333"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTMX&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python (포기 함)-ffdf76?style=flat-square&logo=Python&logoColor=#3776AB"/>
