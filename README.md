@@ -5,7 +5,7 @@
 - 🤔 ...에 대한 도움이 필요합니다.
 - 💬 ...에 대해 문의하세요.
 
-##
+# 사용하는 언어
 
 <img src="https://img.shields.io/badge/Chatgpt-D9D9D9?style=flat-square&logo=OpenAI&logoColor=333333"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
