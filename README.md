@@ -1,7 +1,7 @@
 # 안녕하세요! 👋
 
 - 🛠 <a href="https://dutkyobot.github.io/">https://dutkyobot.github.io</a>를 제작하고 있습니다.
-- 🌱 HTML, CSS, JS, python에 대해 배우고 있습니다.
+- 🌱 HTML, CSS, JS, python을 배우고 있습니다.
 
 ## 
 
