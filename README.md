@@ -1,4 +1,4 @@
-# 반가워요!! 👋
+# 반가워요! 👋
 
 - 🛠 <a href="https://dutkyobot.github.io/">https://dutkyobot.github.io</a> 개발중!
 
