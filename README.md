@@ -1,7 +1,8 @@
-# 반가워요! 👋
+# Hello!👋
 
-- 🛠 <a href="https://dutkyobot.github.io/">dutkyobot.github.io</a> 개발중
-- 🛠 <a href="https://buly.kr/3NKsbdE">D-AI</a> 개발중
+My Service
+- 🛠 <a href="https://dutkyobot.r-e.kr">dutkyobot.r-e.kr</a>
+- 🛠 <a href="https://buly.kr/3NKsbdE">D-AI</a>
 
 ## 
 
