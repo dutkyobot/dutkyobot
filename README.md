@@ -3,7 +3,7 @@
 My Service
 
 - 🛠 <a href="https://dutkyobot.r-e.kr">dutkyobot.r-e.kr</a>
-- 🛠 <a href="https://buly.kr/3NKsbdE">D-AI</a>
+- 🛠 <a href="https://d-ai.dutkyobot.r-e.kr">D-AI</a>
 
 ##
 
